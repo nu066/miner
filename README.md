@@ -7,9 +7,9 @@ Miner
 Miner is a PHP library that extracting metadata and interesting text content (like author, summary, and etc.) from HTML pages.
 It acts like a simplified [HTML metadata parser](https://tika.apache.org/1.4/formats.html#HyperText_Markup_Language) in [Apache Tika](https://tika.apache.org/).
 
-## WTF is Miner?
+##  What is Miner?
 
-Ta-da! Consider the screenshot taken from LinkedIn below: 
+Consider the screenshot taken from LinkedIn below: 
 
 ![image](https://cloud.githubusercontent.com/assets/275750/2751070/1773aa32-c8ae-11e3-9de3-e022ddcb851f.png)
 
